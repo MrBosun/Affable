@@ -8,6 +8,7 @@
     box-sizing: border-box;
 }
 body{
+    background-image: url('css.png');
     background-size: contain;
     background-attachment: fixed;
     height: 50%;
