@@ -5,7 +5,7 @@ body{
     height: 50%;
 }
 img{
-   
+   height: 20px;
     position: relative; /* Keep it in normal document flow */
     top: 0; /* Make sure it's at the top of the page */
 }
