@@ -15,7 +15,7 @@ button.shi{
 
 
 button{
-    
+    margin-bottom: 20px;
     background-color: forestgreen;
    height: 25px;
     position: relative; /* Keep it in normal document flow */
